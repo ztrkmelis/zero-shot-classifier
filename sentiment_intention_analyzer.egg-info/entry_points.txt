@@ -1,0 +1,3 @@
+[console_scripts]
+analyze = src.functions:main
+

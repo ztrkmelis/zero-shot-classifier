@@ -1,0 +1,6 @@
+transformers
+torch
+configparser
+streamlit
+wheel
+twine
